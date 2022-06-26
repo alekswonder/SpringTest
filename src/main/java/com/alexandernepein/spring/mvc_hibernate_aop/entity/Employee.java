@@ -3,7 +3,7 @@ package com.alexandernepein.spring.mvc_hibernate_aop.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "employee")
+@Table(name = "employees")
 public class Employee {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
