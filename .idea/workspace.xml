@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93801409-f820-4bfa-9fd4-dcdff69debb1" name="Changes" comment="Added create option from new form">
+    <list default="true" id="93801409-f820-4bfa-9fd4-dcdff69debb1" name="Changes" comment="Update option added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alexandernepein/spring/mvc_hibernate_aop/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexandernepein/spring/mvc_hibernate_aop/controller/MyController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alexandernepein/spring/mvc_hibernate_aop/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexandernepein/spring/mvc_hibernate_aop/dao/EmployeeDAO.java" afterDir="false" />
@@ -17,7 +17,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alexandernepein/spring/mvc_hibernate_aop/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexandernepein/spring/mvc_hibernate_aop/service/EmployeeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alexandernepein/spring/mvc_hibernate_aop/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexandernepein/spring/mvc_hibernate_aop/service/EmployeeServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +193,7 @@
       <workItem from="1656257689829" duration="1400000" />
       <workItem from="1656259527248" duration="1679000" />
       <workItem from="1656261277477" duration="2168000" />
-      <workItem from="1656269981263" duration="2667000" />
+      <workItem from="1656269981263" duration="3277000" />
     </task>
     <task id="LOCAL-00001" summary="Simple output from database">
       <created>1656258710156</created>
@@ -217,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656271069741</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update option added">
+      <created>1656272723918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656272723918</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +244,7 @@
     <MESSAGE value="Simple output from database" />
     <MESSAGE value="Added service between Controller and DAO" />
     <MESSAGE value="Added create option from new form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added create option from new form" />
+    <MESSAGE value="Update option added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update option added" />
   </component>
 </project>
